@@ -1,0 +1,8 @@
+# Ignore all hidden files
+.*
+
+# But don't ignore .gitignore itself
+!.gitignore
+
+# Don't ignore .gitkeep files (commonly used to track empty directories)
+!.gitkeep
