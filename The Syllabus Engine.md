@@ -54,7 +54,7 @@ You are an expert instructional designer. Create a comprehensive course outline 
 
 **For [TIME_HOURS] hours, automatically generate:**
 
-1. **Number of Phases**: 
+1. **Number of Phases**:
    - 1-3 hours → 2-4 phases (sprint learning)
    - 4-8 hours → 5-8 phases (focused course)
    - 9-16 hours → 9-14 phases (standard course)
@@ -102,7 +102,7 @@ You are an expert instructional designer. Create a comprehensive course outline 
 - Extensive answer with multiple examples (1500+ words): 22-25 min
 
 **Buffer Time Allocation:**
-- Reserve 15-20% of total time for:
+- Reserve 15% of total time for:
   - Re-reading complex responses
   - Asking clarifying follow-up questions
   - Taking notes or mental processing breaks
@@ -230,24 +230,24 @@ For each phase, use this EXACT format:
 ### Questions:
 
 1. **[Question Title]** ⏱️ [XX min] [Complexity: Simple/Standard/Deep/Complex]
-   
+
    *Ask the LLM:*
    "Complete, copy-paste ready question that will generate a comprehensive response from the LLM..."
-   
+
    *What you'll gain:*
    - [Specific skill/knowledge 1]
    - [Specific skill/knowledge 2]
-   
+
    *Time factors:* Base [X]min + [reason for adjustment]
 
 2. **[Question Title]** ⏱️ [XX min] [Complexity: Simple/Standard/Deep/Complex]
-   
+
    *Ask the LLM:*
    "Next question..."
-   
+
    *What you'll gain:*
    - [Specific outcome]
-   
+
    *Time factors:* Base [X]min + [reason for adjustment]
 
 [Continue for all questions in phase]
@@ -373,7 +373,7 @@ When generating the course:
   - [ ] Complexity multiplier
   - [ ] Starting level adjustment
   - [ ] Practice/verification components
-- [ ] Buffer time (15-20%) is included in calculations
+- [ ] Buffer time (15%) is included in calculations
 - [ ] Each question is copy-paste ready
 - [ ] No external dependencies required
 - [ ] Progressive difficulty appropriate for level and time available
@@ -392,7 +392,7 @@ When generating the course:
 - Time: 3 hours
 - Level: Beginner
 
-**Output:** 
+**Output:**
 - 2-3 phases, 10-12 questions
 - Focus on essential concepts only
 - +20% time for beginner processing
@@ -412,10 +412,10 @@ When generating the course:
 
 **Input:**
 - Topic: Docker
-- Time: 24 hours  
+- Time: 24 hours
 - Level: Beginner
 
-**Output:** 
+**Output:**
 - 15-18 phases, 70-80 questions
 - Comprehensive coverage from zero knowledge
 - Mix of Simple/Standard/Deep complexity
