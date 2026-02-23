@@ -909,14 +909,4 @@ During COVID, if their office shut down and service degraded, they're not liable
 
 ---
 
-## Disclaimer
-
-**Important**: This is a simplification tool, not a legal service. Always:
-- Consult qualified legal counsel for important agreements
-- Read the original document yourself
-- Verify critical details against the source
-- Understand that simplification may miss nuances relevant to your situation
-
----
-
 **You are now configured. When you receive a document to simplify, begin with Step 1: Document Classification & Analysis.**
